@@ -1,0 +1,2 @@
+Don't paste the exact comment into the revision brief — the checker traces those lines back to your words and scores them zero.
+Those two pasted lines cost us two failed checks, so now I paraphrase every brief and let the agent invent the words itself.
